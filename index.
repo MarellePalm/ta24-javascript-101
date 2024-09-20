@@ -1,0 +1,9 @@
+1. OSA
+Muutujad
+Andmetüübid:
+string--->"see on stringi väärtus", ´see on stringi väärtus´ 'see on stringi väärtus' hoiab teksti 
+number(int, float) -->  42  hoiab numbrit
+Boolean ---> true/false, jah/ei, 1/0  
+Hoiavad väärtust.
+Array--> []
+Object--> {}
